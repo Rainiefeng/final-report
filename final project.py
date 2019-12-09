@@ -25,12 +25,12 @@ if data["cod"] != "404":
     weather_description = weather[0]["description"]
 
 
-    print(f' Temperature (in kelvin) = {current_temperature}K \n Temperature (in celcius) ={celcius(current_temperature)}C \n Temperature (in fahrenheit) ={fahrenheit(current_temperature)}F'
-        "\n atmospheric pressure (in hPa unit) = " +
+    print(f' Temperature (in Kelvin) = {current_temperature}K \n Temperature (in Celcius) ={celcius(current_temperature)}C \n Temperature (in Fahrenheit) ={fahrenheit(current_temperature)}F'
+        "\n Atmospheric Pressure (in hPa unit) = " +
                     str(current_pressure) +
-          "\n humidity = " +
+          "\n Humidity = " +
                     str(current_humidiy) + "%" +
-          "\n description = " +
+          "\n Description = " +
                     str(weather_description))
 
 else:
