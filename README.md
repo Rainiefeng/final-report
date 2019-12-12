@@ -13,7 +13,11 @@ and modules to output the data of the locations wanted.
 
 ## Run
 A sample program call finalproject.py will use the module to go through all the weather information from the API. You can run it like this:
-    python3 maryland-bills.py
+   
+   
+       python maryland-bills.py
+
+
 You will also need to get a openweather API key and store it in a file in this directory called *key.txt*.
 
 
