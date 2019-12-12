@@ -11,6 +11,8 @@ And we also make a temperature converter which can conver Kelvin to celsius and 
 The finalproject.py file located in this repository, uses the supplied API 
 and modules to output the data of the locations wanted.
 
+And the test.py can actually test if the converter calculate correctly.
+
 ## Run
 A sample program call finalproject.py will use the module to go through all the weather information from the API. You can run it like this:
    
