@@ -30,7 +30,7 @@ You can install it using this link: https://www.python.org/downloads/
 For the pytest, you may need to install
 Run the following command in your command line:
 
-       pip install -U pytest
+       pip3 install -U pytest
 
        
 ## Test
