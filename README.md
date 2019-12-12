@@ -20,6 +20,10 @@ A sample program call finalproject.py will use the module to go through all the 
 
 You will also need to get a openweather API key and store it in a file in this directory called *key.txt*.
 
+For the test file, you can run like this:
+
+       pytest test.py
+
 
 
 ## Install
