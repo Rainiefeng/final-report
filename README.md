@@ -8,14 +8,14 @@ humidity and other data depending on the what the user wants.
 
 And we also make a temperature converter which can conver Kelvin to celsius and fahrenheit. 
 
-The final-project.py file located in this repository, uses the supplied API 
+The finalproject.py file located in this repository, uses the supplied API 
 and modules to output the data of the locations wanted.
 
 ## Run
 A sample program call finalproject.py will use the module to go through all the weather information from the API. You can run it like this:
    
    
-       python maryland-bills.py
+       python3 finalproject.py
 
 
 You will also need to get a openweather API key and store it in a file in this directory called *key.txt*.
@@ -26,6 +26,13 @@ You will also need to get a openweather API key and store it in a file in this d
 
 You will need Python3 to use this project. 
 You can install it using this link: https://www.python.org/downloads/
+
+## Test
+
+You can run some unit tests for the finalproject module using [pytest]:
+
+    pytest test.py
+
 
 ## License
 
