@@ -6,9 +6,13 @@ This Project for INST 326 uses the https://openweathermap.org/api API to get the
 for a specified location inputted. The data pulled includes location, temperature,
 humidity and other data depending on the what the user wants. 
 
+And we also make a temperature converter which can conver Kelvin to celsius and fahrenheit. 
+
 The final-project.py file located in this repository, uses the supplied API 
 and modules to output the data of the locations wanted.
 
+##Run
+A sample program 
 ## Install
 
 You will need Python3 to use this project. 
