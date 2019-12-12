@@ -27,6 +27,12 @@ You will also need to get a openweather API key and store it in a file in this d
 You will need Python3 to use this project. 
 You can install it using this link: https://www.python.org/downloads/
 
+For the pytest, you may need to install
+Run the following command in your command line:
+
+       pip install -U pytest
+
+       
 ## Test
 
 You can run some unit tests for the finalproject module using [pytest]:
