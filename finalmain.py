@@ -3,7 +3,7 @@
 import requests
 
 
-key = "219b74026949c164fc504f625a7b805c"
+key ="API Key"
 url = "http://api.openweathermap.org/data/2.5/weather?"
 
 # User input request for city name
