@@ -45,4 +45,4 @@ Run the following command in your command line:
 ## License
 
 [Open WeatherMap API]: https://openweathermap.org/api
-[key]: 219b74026949c164fc504f625a7b805c
+
